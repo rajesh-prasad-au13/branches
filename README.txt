@@ -9,3 +9,9 @@ second commit in purple1 branch
 third commit in master branch
 
 fourth commit in master branch
+
+first commit in green branch
+
+second commit in green branch
+
+fifth commit in master branch
